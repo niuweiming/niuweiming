@@ -1,6 +1,6 @@
 <!-- 🌌 动态打字标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Weiming!;👨‍💻+程序员+|+🤖+AI+深度使用者+|+🧩+个人开发者;💡+持续学习+与+创造!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Weiming!;👨‍💻+程序员+|+🤖+AI+深度使用者+|+🧩+个人开发者;💡+持续学习+与+创造!" alt="Typing SVG" />
 </p>
 
 <!-- 🌈 炫酷波浪 Header -->
