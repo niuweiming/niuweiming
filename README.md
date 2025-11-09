@@ -1,37 +1,40 @@
-# 👋 Hi, I'm Weiming
+<h1 align="center">👋 Hi, I'm Weiming</h1>
 
-💻 I’m a developer passionate about Go, Python, and web technologies.  
-🚀 Currently building my personal website and exploring AI tools.  
+<p align="center">
+🚀 Developer | 🌐 Web Enthusiast | 🧠 AI Explorer
+</p>
 
-### 🛠️ Tech Stack
-- **Languages:** Go, JavaScript, Python  
-- **Frameworks:** React, Next.js, Gin  
-- **Tools:** Docker, Git, VSCode  
+<p align="center">
+<a href="https://weiming.dev">Website</a> • 
+<a href="https://linkedin.com/in/yourname">LinkedIn</a> • 
+<a href="mailto:you@email.com">Email</a>
+</p>
 
-### 🌍 Connect with me
-[Blog](https://yourblog.com) • [LinkedIn](https://linkedin.com/in/yourname) • [Email](mailto:you@email.com)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![GitHub followers](https://img.shields.io/github/followers/weiming625?style=social)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![GitHub followers](https://img.shields.io/github/followers/weiming625?style=social)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=weiming625&theme=tokyonight)
+---
 
 
-# 🌐 Weiming’s Personal Website
-A modern personal portfolio built with Next.js + Tailwind CSS.
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-## ✨ Features
-- Responsive design  
-- Dark/light mode  
-- Blog with Markdown support  
 
-## 🚀 Demo
-👉 [Live Site](https://weiming.dev)
 
-## 🛠️ Stack
-Next.js • Tailwind • Vercel
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niuweiming&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niuweiming&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+
+## 💼 Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [🌐 showcase-frontend](https://github.com/niuweiming/showcase-frontend) | Personal portfolio website built with Next.js & Tailwind | Next.js, CSS |
+| [🤖 Mutual-AI](https://github.com/YinHan-Zhang/Mutual-AI) | AI collaboration tool for beginners | Python |
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niuweiming&theme=tokyonight&date_format=%5BY.%5Dn.j"/>
+</p>
